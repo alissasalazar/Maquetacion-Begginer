@@ -1,0 +1,31 @@
+.contentFooter{
+    background-color:#212529 ;
+    color: white;
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 55px;
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+}
+
+.contentAllMessage{
+    width: 350px;
+}
+.titleMessage{
+    font-size: 20px;
+}
+.contentMessage{
+    margin-top: 35px;
+    font-size: 15px;
+    text-align: center;
+}
+.specialMessage{
+    color: #18bc9c;
+}
+.copyRigthMessage{
+    margin-top: 40px;
+    width: 300%;
+    font-size: 15px;
+    text-align: center;
+}

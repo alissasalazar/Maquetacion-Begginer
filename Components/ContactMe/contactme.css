@@ -1,0 +1,42 @@
+.contentContactMe {
+  height: 500px;
+  text-align: center;
+}
+
+.titleContacMe {
+  margin-top: 45px;
+  font-size: 45px;
+}
+
+.formContactMe {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Montserrat', sans-serif !important;
+
+}
+.formInput {
+  width: 40%;
+  height: 50px;
+}
+.contentButtonForm{
+  display: flex !important;
+  justify-content: left !important;
+  width: 40%;
+}
+.buttonForm {
+  background-color: #18bc9c !important;
+  border: solid #18bc9c !important;
+  margin-top: 45px;
+}
+.placeHolderForm {
+  height: 50px;
+  font-size: 25px;
+  color:#212529 !important;
+}
+.placeHolderFormMessage {
+  height: 90px;
+  font-size: 25px;
+}

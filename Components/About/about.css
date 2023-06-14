@@ -1,0 +1,42 @@
+.contentAbout {
+  display: block;
+  background-color: #18bc9c;
+  color: white;
+  text-align: center;
+  height: 500px;
+}
+.titleAbout {
+  padding-top: 40px;
+  font-size: 35px;
+}
+.contentPhrase {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-content: center;
+  text-align: left;
+}
+.phrase {
+  margin: 50px;
+  width: 250px;
+  font-size: 15px;
+}
+
+.content-buttonAbout {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+}
+.buttonAbout {
+  background-color: #18bc9c;
+  color: white;
+  border: solid white 2px;
+  width: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 7px;
+  font-size: 12px;
+}
+.phraseButton {
+  font-size: 20px;
+}

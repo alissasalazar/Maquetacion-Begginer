@@ -1,0 +1,15 @@
+.startDesign{
+    background-color: #18bc9c ;
+    display: block;
+    text-align: center;
+    color: white;
+    padding-top: 70px;
+    height: 700px;
+}
+.titleStart{
+    padding-top: 20px;
+    font-size: 80px;
+}
+.descriptionStart{
+    padding-top: 20px;
+}

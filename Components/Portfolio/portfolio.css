@@ -1,0 +1,26 @@
+.portfolio {
+  display: block;
+  text-align: center;
+  color: white;
+  padding-top: 70px;
+  height: 900px;
+}
+
+.titlePortfolio {
+  color: #212529;
+  font-size: 50px;
+}
+.contentImgs {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  height: 400px;
+  margin-bottom: 20px;
+  
+}
+.imgPortfolio {
+  width: 315px;
+  height: 250px;
+  margin: 20px;
+  position: relative;
+}
