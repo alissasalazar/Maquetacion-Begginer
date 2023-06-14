@@ -29,7 +29,8 @@ export function About() {
           style={{ color: "#ffffff" }}
           className="iconButton"
         />
-        <p className="phraseButton">Download Theme</p>
+        Download about
+        {/* <p className="phraseButton">Download Theme</p> */}
       </button>
       </div>
     </div>

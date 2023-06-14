@@ -30,13 +30,11 @@
   background-color: #18bc9c;
   color: white;
   border: solid white 2px;
-  width: 200px;
+  width: 15%;
   display: flex;
   justify-content: center;
   align-items: center;
   border-radius: 7px;
-  font-size: 12px;
+  font-size: 15px;
 }
-.phraseButton {
-  font-size: 20px;
-}
+

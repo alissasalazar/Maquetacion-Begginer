@@ -3,7 +3,6 @@
   text-align: center;
   color: white;
   padding-top: 70px;
-  height: 900px;
 }
 
 .titlePortfolio {
@@ -14,7 +13,6 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  height: 400px;
   margin-bottom: 20px;
   
 }
