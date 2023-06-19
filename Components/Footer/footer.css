@@ -1,31 +1,35 @@
-.contentFooter{
-    background-color:#212529 ;
-    color: white;
-    display: grid;
-    grid-template-columns: auto auto auto;
-    padding: 55px;
-    justify-content: center;
-    text-align: center;
-    height: 300px;
+.contentFooter {
+  background-color: #212529;
+  color: white;
+  text-align: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+.contentFooterDescriptions {
+  margin: 2% 15%;
+  display: flex;
+  padding: 45px;
+  justify-content: space-between;
+  text-align: center;
 }
 
-.contentAllMessage{
-    width: 350px;
+.contentAllMessage {
+  width: 120%;
 }
-.titleMessage{
-    font-size: 20px;
+.titleMessage {
+  font-size: 30px;
+  margin-bottom: 40px;
+  font-weight: bold;
 }
-.contentMessage{
-    margin-top: 35px;
-    font-size: 15px;
-    text-align: center;
+.contentMessage {
+  font-size: 15px;
 }
-.specialMessage{
-    color: #18bc9c;
+.specialMessage {
+  color: #18bc9c;
 }
-.copyRigthMessage{
-    margin-top: 40px;
-    width: 300%;
-    font-size: 15px;
-    text-align: center;
+.copyRigthMessage {
+  margin-top: 20px;
+  width: 300%;
+  font-size: 15px;
+  text-align: center;
 }
